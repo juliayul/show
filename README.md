@@ -7,7 +7,7 @@
 ### Заголовок 3
 
 Изображения вставлять с помощью
-[Image](src)
+![Branching](1595600358_707367_1595600632_noticia_normal_recorte1.jpg)
 а ссылки
 [Link](url)
 
